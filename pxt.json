@@ -1,5 +1,5 @@
 {
-    "name": "TestRetroGame",
+    "name": "test-retro-game",
     "description": "",
     "dependencies": {
         "device": "*"
